@@ -5,10 +5,11 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url(./bg.png);
+  background-image: url('../img/bg.jpeg');
   background-size: cover;
 }
 
 .container {
   text-align: center;
+  overflow: hidden;
 }
