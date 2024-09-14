@@ -17,4 +17,5 @@ body {
 .container {
   text-align: center;
   overflow: hidden;
+  padding:0 2rem;
 }
